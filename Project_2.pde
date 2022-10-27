@@ -1,5 +1,4 @@
 /*
-DESMA28: Interactivity
 Dylan Wan 10/3/22
 
 
