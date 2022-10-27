@@ -1,8 +1,7 @@
 /*
-Project 4 
 Dylan Wan 
 
-Abstract patterns based on No Cure by Zoe's Shanghai. The song is smooth and jazzy, 
+Abstract patterns based on "No Cure" by Zoe's Shanghai. The song is smooth and jazzy, 
 represented by the purely geometric shapes where I attempted to make them intersect 
 satisfying ways.
 
