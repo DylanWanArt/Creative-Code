@@ -1,6 +1,6 @@
 /*
 Dylan Wan 
-Continuing with the theme of cycles from Assignment 2, I decided to do the color of maple leaves 
+Continuing with the theme of cycles like the cathedral, I decided to do the color of maple leaves 
 throughout the seasons.
  
  Instructions 
